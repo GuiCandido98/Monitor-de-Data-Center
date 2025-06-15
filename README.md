@@ -1,2 +1,3 @@
 # Monitor-de-Data-Center
 Apresentação do nosso projeto sobre um aplicativo para monitoramento de Data Center
+Criei esse monitor para deixar salvo e apresentar, um vídeo explicativo sobre nosso Projeto da faculdade, como parte exigida para aprovação na matéria de Projetos em Tecnologias Emergentes no Ambiente corporativo, nosso projeto foca em um aplicativo para monitoramento de pontos que consideramos cruciais para um Data Center, com sensores controlados por um ESP-32 conectados ao aplicativo via um Broker MQTT, assim garantindo leituras em tempo real, deixarei o vídeo que mostrara melhor o nosso trabalho em plano geral.
